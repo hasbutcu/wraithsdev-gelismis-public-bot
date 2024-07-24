@@ -3,7 +3,7 @@
   "version": "v1.0.0",
   "description": "wraiths-public",
   "author": "WraithsDevOktay",
-  "main": "app.config.js",
+  "main": "ecosystem.config.js",
   "scripts": {
     "start": "pm2 start app.config.js"
   },
